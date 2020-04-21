@@ -143,4 +143,4 @@ Legend:
 - Child service care: Orange
 - Airport: Purple
 
-![](tib.jpg)
+![](new_office.png)
