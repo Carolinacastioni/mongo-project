@@ -52,7 +52,7 @@ New York will be our city, because is the city with more Gaming companies and th
 
 - See what is the top coordinate that repeat more often on the range of 179 coordinates.
 
-Result:
+  Result:
 
 - Coordinates: [-73.985506, 40.757929]
 
@@ -63,7 +63,7 @@ Result:
 
 - Check if our new coordinate have Design companies and specify the information.
 
-Result:
+  Result:
 
 - From our point of reference (-73.985506, 40.757929), we have 32 design companies in a 1KM radius. This fulfill one of the requirements.
 
@@ -72,7 +72,7 @@ Result:
 - Account managers need to travel a lot.
 - Let's check the distance from our coordinates to the airport and see if is not so far away.
 
-Result:
+  Result:
 
 - Our coordinates [-73.985506, 40.757929] is less than 10KM away from the Airport La Guardia, which means that the executives won't take too long to get there and go on their business trips.
   
@@ -88,17 +88,17 @@ Result:
 
 - Executives represent 12% of the company members.
 
-Result:
+  Result:
 
 - From our point of reference we have 17 Starbucks in a 500m radius. The executives will be pretty happy.
 
 ## Requirement: Vegan Restaurants
 
--The CEO is Vegan.
+- The CEO is Vegan.
 
 - Let's see if our coordinate (-73.985506, 40.757929) have some vegan restaurants options for him.
 
-Result:
+  Result:
 
 - From our coordinate, we have 13 restaurants in the category: Vegetarian / Vegan Restaurant that will keep our CEO satisfied.
 
@@ -106,7 +106,7 @@ Result:
 
 - All people in the company have between 25 and 40 years, give them some place to go to party.
 
-Result:
+  Result:
 
 - From our coordinate, we have 30 places in the category: Nightlife Spot. Let the party begin!
 
@@ -116,7 +116,7 @@ Result:
 
 - Check if we have any child care service in a 1KM radius.
 
-Result:
+  Result:
 
 - We have two child service care near the office. It might not be a lot, but at least give some options for the parents that work in our company.
 
